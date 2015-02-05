@@ -1,1 +1,1 @@
-# GOBARA É UM GRANDE VIADÃO!
+#android-xmpp-asmack-sample
