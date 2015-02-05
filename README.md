@@ -1,1 +1,1 @@
-# android-xmpp-asmack-sample
+# GOBARA É UM GRANDE VIADÃO!
