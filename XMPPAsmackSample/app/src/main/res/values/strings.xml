@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">XMPPAsmackSample</string>
+    <string name="app_name">XMPP Chat</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="signin">Sign in</string>
+    <string name="send">Send</string>
+    <string name="title_activity_rosters">Rosters</string>
+    <string name="title_activity_message">MessageActivity</string>
 
 </resources>

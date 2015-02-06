@@ -22,4 +22,7 @@ android {
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     compile 'com.android.support:appcompat-v7:21.0.3'
+    compile files('/Users/rafael.gobara/Documents/Workspace/Android Playground/android-xmpp-asmack-sample/XMPPAsmackSample/libs/asmack-android-8-4.0.6.jar')
+    compile files('/Users/rafael.gobara/Documents/Workspace/Android Playground/android-xmpp-asmack-sample/XMPPAsmackSample/libs/asmack-android-8-4.0.6.jar.md5')
+    compile files('/Users/rafael.gobara/Documents/Workspace/Android Playground/android-xmpp-asmack-sample/XMPPAsmackSample/libs/asmack-android-8-4.0.6.jar.sig')
 }
